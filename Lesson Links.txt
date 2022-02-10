@@ -1,0 +1,2 @@
+Lesson 1: http://35.197.79.90/hub/user-redirect/git-pull?repo=https://github.com/jrh154/GeometryWithTurtle&branch=main&subPath=Lessons/1.%20Introduction%20to%20Turtle.ipynb&app=notebook
+
